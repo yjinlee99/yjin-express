@@ -1,0 +1,25 @@
+{
+  "name": "yjin-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjinlee99/yjin-express.git"
+  },
+  "keywords": [
+    "js",
+    "yjin",
+    "express",
+    "server"
+  ],
+  "author": "yjinlee99",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yjinlee99/yjin-express/issues"
+  },
+  "homepage": "https://github.com/yjinlee99/yjin-express#readme"
+}
